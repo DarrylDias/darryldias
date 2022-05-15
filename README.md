@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 -->
 
-## Hey 👋, I’m Darryl. I’m a 3D Generalist, Game and Web Developer and Linux enthusiast.
+## Hey 👋, I’m Darryl. I’m a 3D Artist, Programmer, and Linux enthusiast.
 
 
 [![Darryl's GitHub stats](https://github-readme-stats.vercel.app/api?username=darryldias)](https://github.com/darryldias)
