@@ -13,9 +13,14 @@ Here are some ideas to get you started:
 
 -->
 
-## Hey 👋, I’m Darryl. I’m a 3D Artist, Programmer, and Linux enthusiast.
+## Hey 👋, I’m Darryl. I’m a 3D Artist, Cloud Developer, and Linux enthusiast.
+
+- 🔭 I’m currently working on something cool
+- 🌱 I’m currently learning new technologies 
+ 🤔 I can help you with virtualization, containerization and cloud technologies
+- 💬 Ask me about Linux, Cloud computing, Blender, Houdini and programming.
+- 📫 How to reach me: drop me a line [here](https://darryldias.me/email/)
+-  ⚡ I love what I do
 
 
-[![Darryl's GitHub stats](https://github-readme-stats.vercel.app/api?username=darryldias)](https://github.com/darryldias)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darryldias)](https://github.com/darryldias)
-[![Darryl's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=darryl)](https://github.com/darryldias)
+[![GitHub Streak](https://streak-stats.demolab.com?user=darryldias&theme=github-light&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
