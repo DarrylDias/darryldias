@@ -28,6 +28,8 @@ Here are some ideas to get you started:
 
 ## Recent Articles
 
+[Kickstart Neovim on Linux](https://darryldias.me/2023/kickstart-neovim-on-linux/)
+
 [How to install Minikube on Rocky Linux](https://darryldias.me/2023/how-to-install-minikube-on-rocky-linux/)
 
 [How to install Docker on Rocky Linux ](https://darryldias.me/2023/how-to-install-docker-on-rocky-linux/)
