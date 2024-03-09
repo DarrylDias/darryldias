@@ -24,6 +24,8 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=darryldias&theme=github-light&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
+[![wakatime](https://wakatime.com/badge/user/c40221e5-7a57-49e8-bf5c-458811fd75d1.svg)](https://wakatime.com/@c40221e5-7a57-49e8-bf5c-458811fd75d1)
+
 
 
 ## Recent Articles
