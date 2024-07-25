@@ -43,8 +43,9 @@ Here are some ideas to get you started:
 
 
 # Credentials
-[![AWS Academy Cloud Foundation](/img/aws-academy-graduate-aws-academy-cloud-foundations-300-300.png 'AWS Cloud Foundation Badge')](https://www.credly.com/badges/dea92124-3027-44ff-a39e-6f778b9e0453/public_url)
+Credly: https://www.credly.com/users/darryldias
 
+Google Skill Boost: https://www.cloudskillsboost.google/public_profiles/d1c02b27-a376-4af5-ba46-b4d6ccbb7f4f
 
 ## Find me on other platforms
 
