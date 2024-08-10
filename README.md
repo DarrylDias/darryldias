@@ -22,14 +22,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: drop me a line [here](https://darryldias.me/email/)
 - ⚡ I love what I do
 
-## Certifications
-![![https://www.credly.com/badges/f7caa329-d7ed-4e20-9797-526b846f4232/public_url]()](/img/google-cloud-computing-foundations-certificate_330.png)
+
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=darryldias&theme=github-light&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 [![wakatime](https://wakatime.com/badge/user/c40221e5-7a57-49e8-bf5c-458811fd75d1.svg)](https://wakatime.com/@c40221e5-7a57-49e8-bf5c-458811fd75d1)
 
-
+## Certifications
+![![https://www.credly.com/badges/f6caa329-d7ed-4e20-9797-526b846f4232/public_url]()](/img/google-cloud-computing-foundations-certificate_330.png)
 
 ## Recent Articles
 
