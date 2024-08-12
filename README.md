@@ -31,6 +31,40 @@ Here are some ideas to get you started:
 ## Certifications
 ![![https://www.credly.com/badges/f6caa329-d7ed-4e20-9797-526b846f4232/public_url]()](/img/google-cloud-computing-foundations-certificate_330.png)
 
+
+# Skills
+
+### Languages
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,sass,php,python,bash,powershell,perl,md&perline=8)](https://skillicons.dev)
+### CSP - Cloud Service Providers
+[![My Skills](https://skillicons.dev/icons?i=azure,gcp,aws&perline=6)](https://skillicons.dev)
+
+### Containerization
+[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes&perline=3)](https://skillicons.dev)
+
+### IaC - Infrastructure As Code
+[![My Skills](https://skillicons.dev/icons?i=terraform&perline=3)](https://skillicons.dev)
+
+### SCM
+[![My Skills](https://skillicons.dev/icons?i=git,github,bitbucket,gitlab&perline=8)](https://skillicons.dev)
+
+## OS
+[![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,mint,debian,redhat,arch,apple,windows,bsd&perline=8)](https://skillicons.dev)
+
+## Databases
+[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,postgres,redis&perline=8)](https://skillicons.dev)
+
+## CMS
+[![My Skills](https://skillicons.dev/icons?i=wordpress&perline=3)](https://skillicons.dev)
+
+
+## Game Engine
+[![My Skills](https://skillicons.dev/icons?i=unreal&perline=3)](https://skillicons.dev)
+
+## Editor
+[![My Skills](https://skillicons.dev/icons?i=neovim,vscode&perline=3)](https://skillicons.dev)
+
+
 ## Recent Articles
 
 [Kickstart Neovim on Linux](https://darryldias.me/2023/kickstart-neovim-on-linux/)
