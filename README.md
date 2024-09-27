@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 # Skills
 
 ### Languages
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,sass,php,python,bash,powershell,perl,md&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,sass,go,php,python,bash,powershell,perl,md&perline=8)](https://skillicons.dev)
 ### CSP - Cloud Service Providers
 [![My Skills](https://skillicons.dev/icons?i=azure,gcp,aws&perline=6)](https://skillicons.dev)
 
