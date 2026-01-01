@@ -13,18 +13,18 @@ Here are some ideas to get you started:
 
 -->
 
-## Hey 👋, I’m Darryl. I’m a 3D Artist and Cloud Computing Specialist.
+## Hey 👋, I’m Darryl. I’m a DevOps Engineer and Cloud Computing Specialist.
 
 - 🔭 I’m currently working on something cool
 - 🌱 I’m currently learning new technologies 
-  🤔 I can help you with virtualization, containerization and cloud technologies
+  🤔 I can help you with DevOps, Virtualization, Containerization and Cloud Technologies
 - 💬 Ask me about Linux, Cloud computing, Blender, Houdini and programming.
 - 📫 How to reach me: drop me a line [here](https://darryldias.me/email/)
 - ⚡ I love what I do
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=darryldias&theme=github-light&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=darryldias)](https://git.io/streak-stats)
 
 [![wakatime](https://wakatime.com/badge/user/c40221e5-7a57-49e8-bf5c-458811fd75d1.svg)](https://wakatime.com/@c40221e5-7a57-49e8-bf5c-458811fd75d1)
 
