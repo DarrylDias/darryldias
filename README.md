@@ -90,3 +90,7 @@ Google Skill Boost: https://www.cloudskillsboost.google/public_profiles/d1c02b27
 [Darryl Teaches - YouTube](https://www.youtube.com/@DarrylTeaches)
 
 https://twitter.com/diasdarryl
+
+
+
+![I am watching you](https://cloud.umami.is/p/x4NYjZbBl)
