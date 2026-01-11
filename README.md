@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=darryldias)](https://git.io/streak-stats)
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@darryl/80de61b4-40a7-4794-a3d3-52325b590d70.png" /></a>
 
 [![wakatime](https://wakatime.com/badge/user/c40221e5-7a57-49e8-bf5c-458811fd75d1.svg)](https://wakatime.com/@c40221e5-7a57-49e8-bf5c-458811fd75d1)
 
@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 # Skills
 
 ### Languages
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,sass,go,php,python,bash,powershell,perl,md&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=rust,cpp,html,css,js,sass,go,php,python,bash,powershell,perl,md&perline=8)](https://skillicons.dev)
 ### CSP - Cloud Service Providers
 [![My Skills](https://skillicons.dev/icons?i=azure,gcp,aws&perline=6)](https://skillicons.dev)
 
@@ -59,10 +59,10 @@ Here are some ideas to get you started:
 
 
 ## Game Engine
-[![My Skills](https://skillicons.dev/icons?i=unreal&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=unreal,godot,bevy&perline=3)](https://skillicons.dev)
 
 ## Editor
-[![My Skills](https://skillicons.dev/icons?i=neovim,vscode&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=neovim,emacs,vscode&perline=3)](https://skillicons.dev)
 
 
 ## Recent Articles
