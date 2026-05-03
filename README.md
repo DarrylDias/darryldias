@@ -1,3 +1,90 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Darryl Dias",
+  "alternateName": ["DarrylDias", "AI Guy"],
+  "url": "https://github.com/DarrylDias",
+  "image": "https://avatars.githubusercontent.com/u/000000?v=4",
+  "description": "Entrepreneur, AI Guy, Film Maker, and Artist — blending creativity with technology through AI workflows, machine learning, and innovative business use cases.",
+  "jobTitle": [
+    "Entrepreneur",
+    "Industrialist",
+    "Film Maker",
+    "Artist",
+    "Web Developer",
+    "Linux Sysadmin",
+    "3D Generalist"
+  ],
+  "worksFor": [
+    {
+      "@type": "Organization",
+      "name": "Aloida Industries"
+    },
+    {
+      "@type": "Organization",
+      "name": "Hashable"
+    },
+    {
+      "@type": "Organization",
+      "name": "RevRYL"
+    }
+  ],
+  "alumniOf": [
+    {
+      "@type": "CollegeOrUniversity",
+      "name": "Full Sail University"
+    },
+    {
+      "@type": "CollegeOrUniversity",
+      "name": "Seneca College"
+    },
+    {
+      "@type": "CollegeOrUniversity",
+      "name": "Conestoga College"
+    }
+  ],
+  "knowsAbout": [
+    "Artificial Intelligence",
+    "AI Workflows",
+    "Machine Learning",
+    "AI Business Use Case",
+    "Computer Animation",
+    "Web Development",
+    "Linux",
+    "CG",
+    "VFX",
+    "Look Development"
+  ],
+  "sameAs": [
+    "https://darryldias.me",
+    "https://www.linkedin.com/in/darryldias",
+    "https://www.youtube.com/@darryldias",
+    "https://twitter.com/darryldias",
+    "https://www.instagram.com/darryldias"
+  ],
+  "brand": {
+    "@type": "Brand",
+    "name": "Darryl Dias",
+    "url": "https://darryldias.me"
+  },
+  "keywords": [
+    "Darryl Dias",
+    "Entrepreneur",
+    "AI Guy",
+    "Film Maker",
+    "Artist",
+    "Industrialist",
+    "Artificial Intelligence",
+    "Machine Learning",
+    "AI Workflows",
+    "AI Business Use Case",
+    "Critical Thinker"
+  ]
+}
+</script>
+
+
 <!--
 **DarrylDias/darryldias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on this GitHub profile.
 
